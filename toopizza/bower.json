@@ -1,0 +1,16 @@
+{
+  "name": "flex",
+  "description": "flex proj",
+  "main": "main.js",
+  "authors": [
+    "cate"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rycate/farey",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
